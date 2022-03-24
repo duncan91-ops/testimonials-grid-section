@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/responsive-testiomonials-grid-section-using-sass-grid-and-flexbox-rkCwSRFf9)
+- Live Site URL: [Live Site](https://duncan91-ops.github.io/testimonials-grid-section/)
 
 ## My process
 
